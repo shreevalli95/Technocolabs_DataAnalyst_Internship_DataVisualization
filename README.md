@@ -1,1 +1,1 @@
-# Technocolabs_Datanalyst_Internship_DataVisualization
+# Technocolabs_DataAnalyst_Internship_DataVisualization
